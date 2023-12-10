@@ -17,3 +17,12 @@
 # another way you can mention -e . in your requirement file and you can run
 
 # pip install -r requirements.txt
+
+
+# MLFLOW STRUCTURE
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/suzankhan06/my-first-repo.mlflow \
+export MLFLOW_TRACKING_USERNAME=suzankhan06 \
+export MLFLOW_TRACKING_PASSWORD=7c9d3a044f4d9bb878e7c92307544615429448ae \
+python script.py
+

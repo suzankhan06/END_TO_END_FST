@@ -5,4 +5,5 @@ seaborn
 Flask
 ipykernel
 
-
+mlflow==2.2.2
+dvc
